@@ -1,0 +1,7 @@
+pandas as pd <= 1.4.4
+numpy as np >=1.15.0, <1.21.0
+seaborn as sns <= 11.2
+scipy as stats
+matplotlib as mpl>=2.2
+from matplotlib.pylab import plt
+import importlib
