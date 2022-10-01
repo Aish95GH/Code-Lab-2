@@ -3,3 +3,4 @@ numpy
 seaborn
 scipy
 matplotlib
+html5lib
